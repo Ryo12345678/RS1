@@ -29,3 +29,4 @@
 https://youtu.be/ean9h4ObPDM  
 
 # ライセンス  
+https://github.com/Ryo12345678/RS1/blob/8244011524f3597fd455bbf4b6fbff438ceff888/COPYING
