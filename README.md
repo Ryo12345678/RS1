@@ -13,7 +13,7 @@
 ・ブレッドボード  
 
 # 動作方法  
-・ビルド  
+・ビルド＆インストール  
 
     $ make  
     $ sudo insmod myled.ko  
@@ -26,9 +26,12 @@
     $ echo 0 > /dev/myled0 (1つ目のLEDを消す)  
     $ echo 2 > /dev/myled0 (2つ目のLEDを消す)  
     $ echo 4 > /dev/myled0 (3つ目のLEDを消す)  
-  
+・アンインストール  
+
+    $ sudo rmmod myled  
+    
 # 動画  
 https://youtu.be/ean9h4ObPDM  
 
 # ライセンス  
-https://github.com/Ryo12345678/RS1/blob/8244011524f3597fd455bbf4b6fbff438ceff888/COPYING
+GPL
